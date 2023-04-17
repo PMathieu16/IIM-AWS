@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iimaws-dev-104312-authRole",
+      "UnauthRoleArn": "arn:aws:iam::441701810982:role/amplify-iimaws-dev-104312-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::441701810982:role/amplify-iimaws-dev-104312-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-iimaws-dev-104312-deployment",
+      "UnauthRoleName": "amplify-iimaws-dev-104312-unauthRole",
+      "StackName": "amplify-iimaws-dev-104312",
+      "StackId": "arn:aws:cloudformation:eu-west-1:441701810982:stack/amplify-iimaws-dev-104312/e3fc53e0-dcfb-11ed-88b5-0224c27dc929",
+      "AmplifyAppId": "d1o9hxgi6pgo5u"
+    }
+  }
+}
